@@ -1,3 +1,4 @@
+![cssa](https://github.com/user-attachments/assets/31620be1-aedd-492b-94ce-ce52b280fc69)
 # Crypto Social Sentiment Analyzer (CSSA) - Windows Installer
 CSSA is a desktop application for Windows that analyzes sentiment from social media and news about cryptocurrencies and provides data for automated trading. The software leverages aggregated data from sentiment-tracking platforms to monitor market mood and identify emerging trends.
 
